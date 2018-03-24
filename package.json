@@ -1,0 +1,15 @@
+{
+  "name": "bot-bittorrent",
+  "version": "1.0.0",
+  "dependencies": {
+    "bencode": "^2.0.0",
+    "bittorrent-dht": "^8.2.0",
+    "chalk": "^2.3.0",
+    "compact2string": "^1.4.0",
+    "cross-env": "5.0.5",
+    "dgram": "^1.0.1",
+    "geoip-lite-country": "^1.1.5",
+    "hat": "^0.0.3",
+    "lodash": "^4.17.5"
+  }
+}
